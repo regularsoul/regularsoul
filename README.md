@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GoldenRose
+- 👋 Hi, I’m @regularSoul
 - 👀 I’m interested in java/python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any sort of project that I can practice on
